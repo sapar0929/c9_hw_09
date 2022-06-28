@@ -1,0 +1,39 @@
+.text-white {
+    color: #ffffff;
+}
+
+.text-black {
+    color: #000000;
+}
+
+.text-light {
+    color: rgb(224, 224, 224);
+}
+
+.text-gray {
+    color: rgb(51, 51, 51);
+}
+
+.text-shugundyr {
+    color: #880E4F;
+}
+
+.bg-white {
+    background-color: #ffffff;
+}
+
+.bg-black {
+    background-color: #000000;
+}
+
+.bg-light {
+    background-color: rgb(224, 224, 224);
+}
+
+.bg-gray {
+    background-color: rgb(51, 51, 51);
+}
+
+.bg-shugundyr {
+    background-color: #880E4F;
+}
